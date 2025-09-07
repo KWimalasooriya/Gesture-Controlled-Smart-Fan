@@ -100,7 +100,7 @@ Control fan power, speed, and lighting using only hand movements—no remote, no
 
 ---
 
-## 📸 Demo (To be added)
+## 📸 Demo
 
 ---<img width="467" height="775" alt="gesture fan" src="https://github.com/user-attachments/assets/7722a2b2-0afc-4699-a90a-46cd2da6a519" />
 
