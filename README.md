@@ -37,7 +37,7 @@ Control fan power, speed, and lighting using only hand movements—no remote, no
      - Lights ON / OFF  
 
 3. **Hardware Actuation**
-   - Digital pins drive **relay / MOSFET circuits** connected to the fan + lights  
+   - Digital pins drive **Transistor circuits** connected to the fan + lights  
    - Provides safe switching and motor control  
 
 ---
@@ -55,7 +55,7 @@ Control fan power, speed, and lighting using only hand movements—no remote, no
 - **Connectivity**
   - Bluetooth (UART-based communication)
 - **Drivers**
-  - Relays or MOSFETs for fan/light control
+  - Transistors for fan/light control
 
 ---
 
